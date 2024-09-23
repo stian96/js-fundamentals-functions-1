@@ -18,7 +18,7 @@ Next there are the function parameters `(a, b)`. These are the external pieces o
 
 Finally, we have our function’s block. This is the code that appears in the curly braces after thr function definition and is the code we want out function to run when it's called. Within this block, we will have access to all the parameters we’ve defined, and we can also use the special keyword `return` to end the function and give back a single value as a result.
 
-In the example above, the function is not actually doing anything yet - we’re just declaring how the function will work. If we want to use the function, we need to *call* it. We can do that like so:
+In the example above, the function is not actually doing anything yet - we’re just declaring how the function will work. If we want to use the function, we need to _call_ it. We can do that like so:
 
 ```javascript
 const result = add(5, 3)
@@ -33,5 +33,5 @@ to try out and experiment with code.
 
 ## References
 
-* [Boolean Functions Slides](https://docs.google.com/presentation/d/1y3MTvIPCIYl2a3Cn6hW6kYbxrGKZELqWlXAUKlYUTF0/edit?usp=sharing)
-* [MDN Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [Boolean Functions Slides](https://docs.google.com/presentation/d/1y3MTvIPCIYl2a3Cn6hW6kYbxrGKZELqWlXAUKlYUTF0/edit?usp=sharing)
+- [MDN Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
